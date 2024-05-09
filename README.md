@@ -1,5 +1,4 @@
 <h3 align="left">Hello there! 👋 My name is Mrudav, and I'm a passionate Computer Science student hailing from Australia.</h3>
-
 ###
 
 <div align="center">
